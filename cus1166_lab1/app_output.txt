@@ -1,0 +1,31 @@
+Name: John
+Grade: 90
+
+Name: Tom
+Grade: 80
+
+Name: Andrew
+Grade: 85
+
+Name: Matthew
+Grade: 91
+
+Name: Smith
+Grade: 95
+
+Name: Jessica
+Grade: 99
+
+Name: Alex
+Grade: 100
+
+Name: Michelle
+Grade: 93
+
+Name: Katherine
+Grade: 89
+
+Name: Nicky
+Grade: 87
+
+Average: 90.9
