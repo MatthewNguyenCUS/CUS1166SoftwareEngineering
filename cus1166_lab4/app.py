@@ -21,6 +21,6 @@ def welcome(student):
     return render_template("welcome.html", student=student)
 
 
-@app.route("/roster/<string:grade_view>")
+@app.route("/roster/<int:grade_view>")
 def roster(grade_view):
     return render_template("roster.html", grade_view=grade_view, class_roster=class_roster)
